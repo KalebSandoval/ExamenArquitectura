@@ -1,6 +1,5 @@
 entidades\Paciente.class
 entidades\DiaDeLaSemana.class
-com\mycompany\examen_262741\Examen_262741.class
 interfaces\IModelo.class
 interfaces\IObservador.class
 entidades\HorarioConsulta.class
